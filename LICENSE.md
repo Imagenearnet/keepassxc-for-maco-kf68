@@ -1,4 +1,4 @@
-
+Enhance KeePassXC for macOS with smart KeePassXC for macOS Integration | secure-notes + firewall-protection, the #1 integration. Includes secure-notes and firewall-protection for
 
 
 
